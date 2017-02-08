@@ -1,0 +1,22 @@
+{
+  "name": "pt-filters",
+  "description": "reusable SERP page filters module",
+  "main": "pt-filters.js",
+  "keywords": [
+    "filter",
+    "module"
+  ],
+  "authors": [
+    "Govindrao Kulkarni"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
