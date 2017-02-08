@@ -5,7 +5,7 @@
 * @return 	updated filter values and filtered results
 */
 (function(){
-	use 'strict';
+	'use strict';
 	var FILTERS = (function(){
 		var filterModule = function(filters){
 			this.filterValues = {};
